@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate System Administrator and M.S. Computer Science Student at Loyola University Chicago with experience in server and network infrastructure. I love DevOps, systems design, and learning new technologies.
+I'm a passionate DevSecOps Engineer and M.S. Computer Science Student at Loyola University Chicago with experience in server and network infrastructure. I love DevOps, systems design, and learning new technologies.
 
 - 🔭 Currently working on: **FormaLLM**
 - 🌱 Currently learning: **TLA+/Formal Specification and LLMs**
