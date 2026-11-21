@@ -2,7 +2,11 @@
 
 ## About Me
 
-I'm a passionate DevSecOps Engineer and M.S. Computer Science Student at Loyola University Chicago with experience in server and network infrastructure. I love DevOps, systems design, and learning new technologies.
+I'm a DevSecOps Engineer at Seed Innovations and a recent M.S. Computer Science graduate from Loyola University Chicago (May 2026). Before getting into tech, I served in the U.S. Marine Corps.
+
+I'm interested in a little bit of everything in the tech world, but I particularly enjoy working with infrastructure, automation, security, and figuring out how complex systems fit together. Lately, I've also been spending time exploring formal methods, software verification, and how AI/LLMs can be used in software development.
+
+I like learning how things work under the hood, experimenting with new technologies, and occasionally going down a rabbit hole trying to solve a problem that probably started out much simpler than it ended up being.
 
 - Currently working on: [go-acis](https://github.com/bortiz-101/go-acis) and [socialspecs](https://github.com/LUC-AI4FM/socialspecs)
 - Currently learning: **Go Lang and TLA+/Formal Specifications**
@@ -12,15 +16,27 @@ I'm a passionate DevSecOps Engineer and M.S. Computer Science Student at Loyola 
 
 ---
 
-## Tech Stack
+## What I'm Interested In
 
-**Languages:**  
-`Python` `Java` `Scala` `C` `Bash` `Powershell`
+* DevSecOps and CI/CD
 
-**Tools & Platforms:**  
-`Git` `GitHub` `GitLab + GitLab CI/CD` `VS Code` `Docker` `Azure` `AWS`
+ (Cloud infrastructure and automation
+
+* Linux, networking, and systems engineering
+
+* Software security and vulnerability management
+
+* Formal methods and software verification
+
+* AI/LLMs and their applications in software engineering
 
 ---
+
+## Technologies & Tools
+
+`Python` `Java` `Scala` `C` `Go` `Bash` `PowerShell`
+
+`Docker` `Git` `GitHub` `GitLab` `CI/CD` `AWS` `Azure` `Linux`
 
 ##  GitHub Stats
 
