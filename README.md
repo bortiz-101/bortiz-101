@@ -20,7 +20,7 @@ I like learning how things work under the hood, experimenting with new technolog
 
 * DevSecOps and CI/CD
 
- (Cloud infrastructure and automation
+* Cloud infrastructure and automation
 
 * Linux, networking, and systems engineering
 
